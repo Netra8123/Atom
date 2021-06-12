@@ -1,0 +1,13 @@
+How to connect MYQSL with our Python language
+
+To connect MYSQL with python/or any other programming languages we need MYSQL connector
+To install Mysql connector use the below command
+pip insall mysql-connector
+
+how to install MYSQL server 8.0.25
+Google->MYSQL installer->Click on first link->Start downloading it.
+MYSQL WorkBench to store information to exernal DB
+
+Why we need external DB even though we have enough place to store data in Python software.
+Ans is: whaever we enter in software that is temprory data which will be gone once window is closed.
+To store data permenently we need to have external DB(like SQL,MYSQL)
